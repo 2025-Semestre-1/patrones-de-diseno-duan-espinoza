@@ -3,7 +3,7 @@
 Investigación de patrones estrcuturales: Adaptador (clase y objeto)
 ### Nombre y carné de los integrantes:
 DUAN ANTONIO ESPINOZA OLIVARES
-201907990
+2019079490
 
 ### Enlace del video (Si existiese):
 Recordar que el video debe ser público para ser visto por el profesor
